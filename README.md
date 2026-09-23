@@ -1,4 +1,5 @@
 # FpsPlusPlusScanner
+Scans for the malware that infected people playground under the fps++++ mod i think
 
 # To compile and run it
 https://rust-lang.org/tools/install/
